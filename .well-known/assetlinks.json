@@ -3,10 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.deeplink_flutter",
-      "sha256_cert_fingerprints": [
-        "92:96:0B:47:AC:2E:DF:1E:05:4D:C4:51:53:71:20:F1:48:3B:23:F2:D1:18:A3:2C:AE:8B:E9:3D:7C:DA:9E:74"
-      ]
+      "package_name": "dynavolt.co.id",
+      "sha256_cert_fingerprints":
+        ["3F:1C:B7:FA:42:0A:DB:9A:2E:19:CF:18:4F:B3:D3:92:69:72:BB:F2:C5:6D:C8:1D:1F:DD:8F:1B:C0:C3:7F:A5"]
     }
   }
 ]
